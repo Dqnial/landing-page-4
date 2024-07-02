@@ -63,6 +63,12 @@ button:focus {
     line-height: 58px;
     border-radius: 3px;
 }
+
+.about__images img{
+    max-width: 100px;
+    margin: 0 auto;
+}
+
 @media(max-width:480px){
     .intro__text{
         font-size: 35px;
